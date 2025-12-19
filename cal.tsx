@@ -1,5 +1,5 @@
-import React, { useState } from ;
-import { View, Text, TouchableOpacity } from;
+import React, { useState } from "react";
+import { View, Text, TouchableOpacity } from "react-native";
 
 export default function Calculator() {
   const [value, setValue] = useState("");
